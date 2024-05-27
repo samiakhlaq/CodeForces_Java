@@ -1,3 +1,4 @@
+// Problem : 705A - Hulk
 import java.util.Scanner;
 public class Hulk {
     public static void express (int n)
